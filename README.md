@@ -1,5 +1,7 @@
 ### OpenCV 使用
 
+#### NOTE: 程式碼不包含字幕
+
 #### NOTE: width與height設定和原本影片相同的尺寸
 ```
 width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
