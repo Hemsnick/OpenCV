@@ -13,7 +13,6 @@ height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 if 1500>=int(cap.get(cv2.CAP_PROP_POS_MSEC)) >= 1400: # 單位是每毫秒，會因FPS變動影響原影片在程式運行時的毫秒數
 ```
 
-#### 連結：
-```
-https://youtu.be/VRrEfZXIfto
-```
+#### 濾鏡展示連結：
+
+<https://youtu.be/VRrEfZXIfto>
